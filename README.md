@@ -33,8 +33,8 @@ Nickname                | Described in section "Component: Nickname"
 
 AbbrName            | FullName                  | Description
 ------------------- | ------------------------- | -----------
-NDLT6               | NDevLT6-Sirius            | Laptop #6, with nickname "Sirius". Xiaomi Mibook Pro 2019 15i.
-NDMT7               | NDevMT7-Paris             | Mobiletop #7, with nickname "Paris". Apple iPhone 8.
+NDLT7               | NDevLT6-Sirius            | Laptop #7, with nickname "Sirius". Xiaomi Mibook Pro 2019 15i.
+NDMT6               | NDevMT6-Paris             | Mobiletop #6, with nickname "Paris". Apple iPhone 8.
 NEKb1               | NDevExtKb1                | Keyboard #1.
 
 ## Component: TypeIndicator
@@ -100,17 +100,17 @@ AbbrName            | FullName                  | Status            | Descriptio
 ------------------- | ------------------------- | ----------------- | -----------
 NDMT1               | NDevMT1                   | Sealed            | Apple, iPod touch G3.
 NDMT2               | NDevMT2                   | Lost              | Apple, iPad G3, Y2012.
-NDMT3               | NDevMT3                   | Broken            | Apple, iPhone 5c
-NDMT4               | NDevMT4-Roseville         | Sold              | Apple, iPod touch
-NDMT5               | NDevMT5-Rome              | Sealed            | Apple, iPhone SE
-NDMT6               | NDevMT6-Athens            | Active            | Apple, iPhone 8
-NDMT7               | NDevMT7-Busan             | Active            | Apple, iPad, Y2018, SCR 9.7in.
+NDMT3               | NDevMT3-Roseville         | Broken            | Apple, iPhone 5c.
+NDMT4               | NDevMT4-Rome              | Sold              | Apple, iPod touch, Y2016.
+NDMT5               | NDevMT5-Athens            | Sealed            | Apple, iPhone SE.
+NDMT6               | NDevMT6-Paris             | Active            | Apple, iPhone 8.
+NDMT7               | NDevMT7-Busan             | Active            | Apple, iPad, Y2018.
 
 ### Miscellaneous
 
 AbbrName            | FullName                  | Status            | Description
 ------------------- | ------------------------- | ----------------- | -----------
-NEKb2               | NDevExtKb1                | Active            | Colorfly, Single-Hand Gaming Keyboard, Y2018.
+NEKb2               | NDevExtKb1                | Active            | Colorful, Single-Hand Gaming Keyboard, Y2018.
 NEKb3               | NDevExtKb2                | Active            | Apple, Magic Keyboard, Y2019.
 NEMo3               | NDevExtMo3                | Active            | SteelSeries, Sensei 310, Y2018.
 NEHp1               | NDevExtHp1                | Active            | AKG, K450, Y2014.
