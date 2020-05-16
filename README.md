@@ -2,6 +2,7 @@
 
 ## Introduction
 
+This specification describe the naming of devices.
 ## Device Name Structure
 
 ### AbbrName
