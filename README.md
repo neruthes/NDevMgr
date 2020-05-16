@@ -6,8 +6,6 @@
 
 ### AbbrName
 
-Structure:
-
 Component               | Description
 ----------------------- | -----------
 Header                  | Static string "N".
@@ -16,8 +14,6 @@ TypeIndicator           | Described in section "Component: TypeIndicator".
 Sequence                | The sequence of adoption of the device, within the scope of the type.
 
 ### FullName
-
-Structure:
 
 Component               | Description
 ----------------------- | -----------
