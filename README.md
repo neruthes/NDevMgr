@@ -115,6 +115,6 @@ NEKb3               | NDevExtKb2                | Active            | Apple, Mag
 NEMo3               | NDevExtMo3                | Active            | SteelSeries, Sensei 310, Y2018.
 NEHp1               | NDevExtHp1                | Active            | AKG, K450, Y2014.
 NEHp2               | NDevExtHp2                | Active            | Apple, EarPods (iPhone 8), Y2018.
-NEHp3               | NDevExtHp3                | Active            | Apple, AirPods, Y2019.
+NEHp3               | NDevExtHp3                | Lost              | Apple, AirPods, Y2019.
 NEHp4               | NDevExtHp4                | Active            | Xiaomi, Redmi AirDots S, Y2020.
 NESp1               | NDevExtSp1                | Active            | Xiaomi, UntitledModel, Y2020.
