@@ -1,0 +1,2 @@
+# NDevMgr
+Neruthes Device Manager
