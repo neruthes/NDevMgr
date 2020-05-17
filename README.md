@@ -107,8 +107,8 @@ NDMT7               | NDevMT7-Busan             | Active            | Apple, iPa
 
 AbbrName            | FullName                  | Status            | Description
 ------------------- | ------------------------- | ----------------- | -----------
-NEKb2               | NDevExtKb1                | Active            | Colorful, Single-Hand Gaming Keyboard, Y2018.
-NEKb3               | NDevExtKb2                | Active            | Apple, Magic Keyboard, Y2019.
+NEKb2               | NDevExtKb2                | Active            | Colorful, Single-Hand Gaming Keyboard, Y2018.
+NEKb3               | NDevExtKb3                | Active            | Apple, Magic Keyboard, Y2019.
 NEMo3               | NDevExtMo3                | Active            | SteelSeries, Sensei 310, Y2018.
 NEHp1               | NDevExtHp1                | Active            | AKG, K450, Y2014.
 NEHp2               | NDevExtHp2                | Active            | Apple, EarPods (iPhone 8), Y2018.
