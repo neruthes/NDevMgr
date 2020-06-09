@@ -51,6 +51,7 @@ Hp                  | Headphones.
 Sp                  | Speaker.
 Ed                  | Extension Dock.
 Ch                  | Charger.
+Pd                  | Portable Drive.
 
 ## Component: Nickname
 
@@ -89,7 +90,7 @@ NDLT3               | NDevLT3                   | Sold              | Apple, Mac
 NDLT4               | NDevLT4-Arcturus          | Sold              | Apple, MacBook Pro, Y2014, SCR 15.4in.
 NDLT5               | NDevLT5-Malfurion         | NeverWasMine      | Apple, MacBook Pro, Y2015, SCR 15.4in.
 NDLT6               | NDevLT5-Betelgeuse        | Active            | Apple, MacBook Pro, Y2015, SCR 15.4in.
-NDLT7               | NDevLT7-Sirius            | Active            | Xiaomi, MiBook Pro, Y2019, SCR 15.6in.
+NDLT7               | NDevLT7-Sirius            | Active            | Xiaomi, Mi Laptop Pro, Y2019, SCR 15.6in.
 
 ### MT
 
@@ -115,3 +116,5 @@ NEHp2               | NDevExtHp2                | Active            | Apple, Ear
 NEHp3               | NDevExtHp3                | Lost              | Apple, AirPods, Y2019.
 NEHp4               | NDevExtHp4                | Active            | Xiaomi, Redmi AirDots S, Y2020.
 NESp1               | NDevExtSp1                | Active            | Xiaomi, UntitledModel, Y2020.
+NEPd1               | NDevExtPd1                | Lost              | Seagate, Mass USB HDD, 1TB. Nickname "Saber".
+NEPd2               | NDevExtPd2                | Acti              | WD, Mass USB HDD "My Passport", 2TB. Nickname "Archer".
