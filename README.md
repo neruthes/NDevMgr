@@ -111,6 +111,15 @@ NDMT5               | NDevMT5-Athens            | Sealed            | Apple, iPh
 NDMT6               | NDevMT6-Paris             | Active            | Apple, iPhone 8.
 NDMT7               | NDevMT7-Busan             | Active            | Apple, iPad, Y2018.
 
+### OS Naming
+
+Name                            | Description
+------------------------------- | -----------
+NDLT7-Sirius                    | AOSC OS
+NDLT7-Windows                   | Windows 10
+NDLT7-WSL-Ubuntu                | WSL, Ubuntu
+NEPd2-Ubuntu                    | Ubuntu
+
 ### Miscellaneous
 
 AbbrName            | FullName                  | Status            | Description
