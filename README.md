@@ -3,6 +3,7 @@
 ## Introduction
 
 This specification describe the naming of devices.
+
 ## Device Name Structure
 
 ### AbbrName
@@ -44,6 +45,7 @@ LT                  | Laptop.
 MT                  | Mobiletop.
 DT                  | Donald Trump.
 NS                  | Network storage server.
+CM                  | Camera.
 Kb                  | Keyboard.
 Mo                  | Mouse.
 Sc                  | Screen. Monitor ou TV ou Projector.
@@ -51,7 +53,12 @@ Hp                  | Headphones.
 Sp                  | Speaker.
 Ed                  | Extension Dock.
 Ch                  | Charger.
+Ba                  | Battery.
 Pd                  | Portable Drive.
+Wd                  | Wearable device.
+XX                  | Uncategorized.
+
+Generally, if the device can be used alone, it should not be considered un extensive device and the seq 2 character of its TypeIndicator should be uppercase.
 
 ## Component: Nickname
 
@@ -108,13 +115,28 @@ NDMT7               | NDevMT7-Busan             | Active            | Apple, iPa
 
 AbbrName            | FullName                  | Status            | Description
 ------------------- | ------------------------- | ----------------- | -----------
-NEKb2               | NDevExtKb2                | Active            | Colorful, Single-Hand Gaming Keyboard, Y2018.
+NDCM2               | NDevCM2                   | Active            | SONY, NEX-5R.
+NEKb2               | NDevExtKb2                | Active            | Dulex, Single-Hand Gaming Keyboard, Y2018.
 NEKb3               | NDevExtKb3                | Active            | Apple, Magic Keyboard, Y2019.
 NEMo3               | NDevExtMo3                | Active            | SteelSeries, Sensei 310, Y2018.
 NEHp1               | NDevExtHp1                | Active            | AKG, K450, Y2014.
 NEHp2               | NDevExtHp2                | Active            | Apple, EarPods (iPhone 8), Y2018.
 NEHp3               | NDevExtHp3                | Lost              | Apple, AirPods, Y2019.
 NEHp4               | NDevExtHp4                | Active            | Xiaomi, Redmi AirDots S, Y2020.
-NESp1               | NDevExtSp1                | Active            | Xiaomi, UntitledModel, Y2020.
+NESp1               | NDevExtSp1                | Active            | Xiaomi, SteelGun, Y2020.
+NESp2               | NDevExtSp2                | Active            | Edifier, Stereo, Y2020.
 NEPd1               | NDevExtPd1                | Lost              | Seagate, Mass USB HDD, 1TB. Nickname "Saber".
-NEPd2               | NDevExtPd2                | Acti              | WD, Mass USB HDD "My Passport", 2TB. Nickname "Archer".
+NEPd2               | NDevExtPd2                | Active            | WD, Mass USB HDD "My Passport", 2TB. Nickname "Archer".
+NECh1               | NDevExtCh1                | Broken            | Apple, MagSafe, 85W.
+NECh2               | NDevExtCh2                | Active            | Apple, MagSafe, 85W.
+NECh3               | NDevExtCh3                | Active            | NetEase, 4 USB.
+NECh4               | NDevExtCh4                | Active            | Xiaomi, USB Type-C PD, 65W.
+NECh5               | NDevExtCh5                | Active            | Xiaomi, Design for MiBand 4.
+NECh6               | NDevExtCh6                | Active            | Xiaomi, Design for MiBand 4.
+NECh7               | NDevExtCh7                | Active            | Xiaomi, Standing Wireless Charger, 20W.
+NECh8               | NDevExtCh8                | Active            | DSTE, Designed For SONY NP-FW50 Battery.
+NEBa1               | NDevExtBa1                | Active            | MiPOW, Square Mobile Battery.
+NEBa2               | NDevExtBa2                | Active            | Philips, Wireless Mobile Battery.
+NEBa3               | NDevExtBa3                | Active            | Guaishou, Multi-Cable Mobile Battery.
+NEBa4               | NDevExtBa4                | Active            | SONY, NP-FW50, Designed For SONY Camera.
+NEBa5               | NDevExtBa5                | Active            | Unknown Manufacturer, Alt For NP-FW50, Designed For SONY Camera.
