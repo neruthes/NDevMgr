@@ -96,7 +96,7 @@ NDLT2               | NDevLT2                   | Sealed            | Apple, Mac
 NDLT3               | NDevLT3                   | Sold              | Apple, MacBook Pro, Y2013, SCR 15.4in.
 NDLT4               | NDevLT4-Arcturus          | Sold              | Apple, MacBook Pro, Y2014, SCR 15.4in.
 NDLT5               | NDevLT5-Malfurion         | NeverWasMine      | Apple, MacBook Pro, Y2015, SCR 15.4in.
-NDLT6               | NDevLT5-Betelgeuse        | Active            | Apple, MacBook Pro, Y2015, SCR 15.4in.
+NDLT6               | NDevLT6-Betelgeuse        | Active            | Apple, MacBook Pro, Y2015, SCR 15.4in.
 NDLT7               | NDevLT7-Sirius            | Active            | Xiaomi, Mi Laptop Pro, Y2019, SCR 15.6in.
 
 ### MT
