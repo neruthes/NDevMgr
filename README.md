@@ -115,6 +115,7 @@ NDMT7               | NDevMT7-Busan             | Active            | Apple, iPa
 
 Name                            | Description
 ------------------------------- | -----------
+NDLT6-Betelgeuse                | Mac OS X 10.13.6 High Sierra.
 NDLT7-Sirius                    | AOSC OS.
 NDLT7-Windows                   | Windows 10.
 NDLT7-WSL-Ubuntu                | WSL, Ubuntu 20.04.
