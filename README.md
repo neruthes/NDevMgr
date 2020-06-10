@@ -31,8 +31,8 @@ Nickname                | Described in section "Component: Nickname"
 
 AbbrName            | FullName                  | Description
 ------------------- | ------------------------- | -----------
-NDLT7               | NDevLT6-Sirius            | Laptop #7, with nickname "Sirius". Xiaomi Mibook Pro 2019 15i.
-NDMT6               | NDevMT6-Paris             | Mobiletop #6, with nickname "Paris". Apple iPhone 8.
+NDLT7               | NDevLT6-Sirius            | Laptop #7, with nickname "Sirius". Xiaomi, Mi Laptop Pro, Y2019, SCR 15.6in.
+NDMT6               | NDevMT6-Paris             | Mobiletop #6, with nickname "Paris". Apple, iPhone 8.
 NEKb1               | NDevExtKb1                | Keyboard #1.
 
 ## Component: TypeIndicator
@@ -64,7 +64,7 @@ Generally, if the device can be used alone, it should not be considered un exten
 
 ### Overview
 
-Un device may have un nickname if the type is LT ou MT.
+Un device may have un nickname if the type is LT ou MT ou Pd.
 
 ### LT
 
@@ -74,6 +74,10 @@ The nickname should be un name of un star.
 
 The nickname should be un name of un municipality.
 
+### Pd
+
+The nickname should be chosen among [ Saber, Archer, Rider, Lancer, Caster, Assassin, Berserker ].
+
 ## Adoptions
 
 ### Hostname
@@ -82,9 +86,13 @@ The hostname of un device should be its AbbrName.
 
 ### OpenPGP Device Public Key
 
-The "Name" field should be `NDev-${AbbrName}-${Nickname}`.
+The "Name" field should be `NDev-${AbbrName}-${Nickname}[-${OSName}]`.
 
 The "Email" field should be `ndev.${AbbrName.toLowerCase()}`.
+
+### NTGE Device Public Key
+
+The "Name" field should be `${AbbrName}-${Nickname}[-${OSName}]`.
 
 ## Device List
 
@@ -117,9 +125,9 @@ Name                            | Description
 ------------------------------- | -----------
 NDLT6-Betelgeuse                | Mac OS X 10.13.6 High Sierra.
 NDLT7-Sirius                    | AOSC OS.
-NDLT7-Windows                   | Windows 10.
-NDLT7-WSL-Ubuntu                | WSL, Ubuntu 20.04.
-NEPd2-Ubuntu                    | Ubuntu 20.04.
+NDLT7-Sirius-Windows            | Windows 10.
+NDLT7-Sirius-WSL-Ubuntu         | WSL, Ubuntu 20.04.
+NEPd2-Archer-Ubuntu             | Ubuntu 20.04.
 
 ### Miscellaneous
 
