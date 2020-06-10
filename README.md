@@ -115,10 +115,10 @@ NDMT7               | NDevMT7-Busan             | Active            | Apple, iPa
 
 Name                            | Description
 ------------------------------- | -----------
-NDLT7-Sirius                    | AOSC OS
-NDLT7-Windows                   | Windows 10
-NDLT7-WSL-Ubuntu                | WSL, Ubuntu
-NEPd2-Ubuntu                    | Ubuntu
+NDLT7-Sirius                    | AOSC OS.
+NDLT7-Windows                   | Windows 10.
+NDLT7-WSL-Ubuntu                | WSL, Ubuntu 20.04.
+NEPd2-Ubuntu                    | Ubuntu 20.04.
 
 ### Miscellaneous
 
