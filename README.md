@@ -86,13 +86,13 @@ The hostname of un device should be its AbbrName.
 
 ### OpenPGP Device Public Key
 
-The "Name" field should be `NDev-${AbbrName}-${Nickname}[-${OSName}]`.
+The "Name" field should be like `NDev-NDLT7W`.
 
-The "Email" field should be `ndev.${AbbrName.toLowerCase()}`.
+The "Email" field should be `ndev.ndlt7w@neruthes.xyz`.
 
 ### NTGE Device Public Key
 
-The "Name" field should be `${AbbrName}-${Nickname}[-${OSName}]`.
+The "Name" field should be like `NDLT7W`.
 
 ## Device List
 
