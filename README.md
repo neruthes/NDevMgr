@@ -86,13 +86,13 @@ The hostname of un device should be its AbbrName.
 
 ### OpenPGP Device Public Key
 
-The "Name" field should be `NDev-${AbbrName}-${Nickname}[-${OSName}]`.
+The "Name" field should be like `NDev-NDLT7W`.
 
-The "Email" field should be `ndev.${AbbrName.toLowerCase()}`.
+The "Email" field should be `ndev.ndlt7w@neruthes.xyz`.
 
 ### NTGE Device Public Key
 
-The "Name" field should be `${AbbrName}-${Nickname}[-${OSName}]`.
+The "Name" field should be like `NDLT7W`.
 
 ## Device List
 
@@ -123,11 +123,11 @@ NDMT7               | NDevMT7-Busan             | Active            | Apple, iPa
 
 Name                            | Description
 ------------------------------- | -----------
-NDLT6-Betelgeuse                | Mac OS X 10.13.6 High Sierra.
-NDLT7-Sirius                    | AOSC OS.
-NDLT7-Sirius-Windows            | Windows 10.
-NDLT7-Sirius-WSL-Ubuntu         | WSL, Ubuntu 20.04.
-NEPd2-Archer-Ubuntu             | Ubuntu 20.04.
+NDLT6                           | Mac OS X 10.13.6 High Sierra.
+NDLT7                           | AOSC OS.
+NDLT7W                          | Windows 10.
+NDLT7WsU                        | WSL, Ubuntu 20.04.
+NEPd2U                          | Ubuntu 20.04.
 
 ### Miscellaneous
 
