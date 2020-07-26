@@ -135,7 +135,8 @@ AbbrName            | FullName                  | Status            | Descriptio
 ------------------- | ------------------------- | ----------------- | -----------
 NDCM2               | NDevCM2                   | Active            | SONY, NEX-5R.
 NEKb2               | NDevExtKb2                | Active            | Dulex, Single-Hand Gaming Keyboard, Y2018.
-NEKb3               | NDevExtKb3                | Active            | Apple, Magic Keyboard, Y2019.
+NEKb3               | NDevExtKb3                | Broken            | Apple, Magic Keyboard, Y2019.
+NEKb4               | NDevExtKb4                | Active            | Jingdong, Keychron K2, Y2020.
 NEMo3               | NDevExtMo3                | Active            | SteelSeries, Sensei 310, Y2018.
 NEHp1               | NDevExtHp1                | Active            | AKG, K450, Y2014.
 NEHp2               | NDevExtHp2                | Active            | Apple, EarPods (iPhone 8), Y2018.
