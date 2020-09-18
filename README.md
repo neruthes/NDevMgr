@@ -133,7 +133,7 @@ NEPd2U                          | Ubuntu 20.04.
 
 AbbrName            | FullName                  | Status            | Description
 ------------------- | ------------------------- | ----------------- | -----------
-NDRt1               | NDevRt1                   | Active            | Redmi, Router AX5, Y2020.
+NDRT1               | NDevRT1                   | Active            | Redmi, Router AX5, Y2020.
 NDCM2               | NDevCM2                   | Active            | SONY, NEX-5R.
 NEKb2               | NDevExtKb2                | Active            | Dulex, Single-Hand Gaming Keyboard, Y2018.
 NEKb3               | NDevExtKb3                | Broken            | Apple, Magic Keyboard, Y2019.
