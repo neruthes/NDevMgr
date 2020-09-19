@@ -133,6 +133,7 @@ NEPd2U                          | Ubuntu 20.04.
 
 AbbrName            | FullName                  | Status            | Description
 ------------------- | ------------------------- | ----------------- | -----------
+NDRT1               | NDevRT1                   | Active            | Redmi, Router AX5, Y2020.
 NDCM2               | NDevCM2                   | Active            | SONY, NEX-5R.
 NEKb2               | NDevExtKb2                | Active            | Dulex, Single-Hand Gaming Keyboard, Y2018.
 NEKb3               | NDevExtKb3                | Broken            | Apple, Magic Keyboard, Y2019.
@@ -159,3 +160,19 @@ NEBa2               | NDevExtBa2                | Active            | Philips, W
 NEBa3               | NDevExtBa3                | Active            | Guaishou, Multi-Cable Mobile Battery.
 NEBa4               | NDevExtBa4                | Active            | SONY, NP-FW50, Designed For SONY Camera.
 NEBa5               | NDevExtBa5                | Active            | Unknown Manufacturer, Alt For NP-FW50, Designed For SONY Camera.
+
+## LAN DHCP
+
+Allocation Strategy:
+
+From                | To                        | Definition
+------------------- | ------------------------- | -------------
+4                   | 39                        | My devices.
+40                  | 99                        | DHCP.
+
+AbbrName            | IP                 
+------------------- | -----------------------
+NDLT6               | 192.168.1.4
+NDLT7               | 192.168.1.5
+NDMT6               | 192.168.1.11
+NDMT7               | 192.168.1.12
