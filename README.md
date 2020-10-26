@@ -124,10 +124,22 @@ NDMT7               | NDevMT7-Busan             | Active            | Apple, iPa
 Name                            | Description
 ------------------------------- | -----------
 NDLT6                           | Mac OS X 10.13.6 High Sierra.
-NDLT7                           | AOSC OS.
+NDLT7                           | Gentoo.
 NDLT7W                          | Windows 10.
+NDLT7WsA                        | WSL, AOSC OS.
 NDLT7WsU                        | WSL, Ubuntu 20.04.
+NEPd2E                          | Elementary OS.
 NEPd2U                          | Ubuntu 20.04.
+
+### Virtual Machines
+
+Name                            | Host                              | Description
+------------------------------- | --------------------------------- | -----------
+NDVM1                           | NDLT7                             | AOSC OS.
+NDVM2                           | NDLT7                             | Ubuntu 20.04.
+NDVM3                           | NDLT7                             | AOSC OS (Retro).
+
+
 
 ### Miscellaneous
 
@@ -176,3 +188,5 @@ NDLT6               | 192.168.1.4
 NDLT7               | 192.168.1.5
 NDMT6               | 192.168.1.11
 NDMT7               | 192.168.1.12
+
+##
