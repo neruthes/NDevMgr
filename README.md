@@ -117,7 +117,8 @@ NDMT3               | NDevMT3-Roseville         | Broken            | Apple, iPh
 NDMT4               | NDevMT4-Rome              | Sold              | Apple, iPod touch, Y2016.
 NDMT5               | NDevMT5-Athens            | Sealed            | Apple, iPhone SE.
 NDMT6               | NDevMT6-Paris             | Active            | Apple, iPhone 8.
-NDMT7               | NDevMT7-Busan             | Active            | Apple, iPad, Y2018.
+NDMT7               | NDevMT7-Busan             | Sold              | Apple, iPad, Y2018.
+NDMT8               | NDevMT8-Wuhan             | Active            | Apple, iPad Air 4, Y2020.
 
 ### OS Naming
 
@@ -138,6 +139,11 @@ Name                            | Host                              | Descriptio
 NDVM1                           | NDLT7                             | AOSC OS.
 NDVM2                           | NDLT7                             | Ubuntu 20.04.
 NDVM3                           | NDLT7                             | AOSC OS (Retro).
+NDVM4                           | NDLT7                             | AOSCLive.
+NDVM5                           | NDLT7                             | Playground, EFI.
+NDVM6                           | NDLT7                             | Playground, BIOS.
+NDVM7                           | NDLT7                             | Windows Vista.
+NDVM8                           | NDLT7                             | Void Linux.
 
 
 
