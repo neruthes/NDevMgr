@@ -127,7 +127,7 @@ Name                            | Description
 NDLT6                           | Mac OS X 10.13.6 High Sierra.
 NDLT7                           | Gentoo.
 NDLT7W                          | Windows 10.
-NDLT7WsA                        | WSL, AOSC OS.
+NDLT7WsA                        | WSL, AOSC OS 7 Gumblex.
 NDLT7WsU                        | WSL, Ubuntu 20.04.
 NEPd2E                          | Elementary OS.
 NEPd2U                          | Ubuntu 20.04.
@@ -156,6 +156,7 @@ NDCM2               | NDevCM2                   | Active            | SONY, NEX-
 NEKb2               | NDevExtKb2                | Active            | Dulex, Single-Hand Gaming Keyboard, Y2018.
 NEKb3               | NDevExtKb3                | Broken            | Apple, Magic Keyboard, Y2019.
 NEKb4               | NDevExtKb4                | Active            | Jingdong, Keychron K2, Y2020.
+NEKb5               | NDevExtKb5                | Active            | Amork, Designed for iPad, Y2020.
 NEMo3               | NDevExtMo3                | Active            | SteelSeries, Sensei 310, Y2018.
 NEHp1               | NDevExtHp1                | Active            | AKG, K450, Y2014.
 NEHp2               | NDevExtHp2                | Active            | Apple, EarPods (iPhone 8), Y2018.
@@ -163,8 +164,10 @@ NEHp3               | NDevExtHp3                | Lost              | Apple, Air
 NEHp4               | NDevExtHp4                | Active            | Xiaomi, Redmi AirDots S, Y2020.
 NESp1               | NDevExtSp1                | Active            | Xiaomi, SteelGun, Y2020.
 NESp2               | NDevExtSp2                | Active            | Edifier, Stereo, Y2020.
+NESp3               | NDevExtSp3                | Active            | Edifier, M380, Y2020.
 NEPd1               | NDevExtPd1                | Lost              | Seagate, Mass USB HDD, 1TB. Nickname "Saber".
 NEPd2               | NDevExtPd2                | Active            | WD, Mass USB HDD "My Passport", 2TB. Nickname "Archer".
+NEPd3               | NDevExtPd3                | Active            | Toshiba, P300, 3TB. Nickname "Caster".
 NECh1               | NDevExtCh1                | Broken            | Apple, MagSafe, 85W.
 NECh2               | NDevExtCh2                | Active            | Apple, MagSafe, 85W.
 NECh3               | NDevExtCh3                | Active            | NetEase, 4 USB.
@@ -173,6 +176,7 @@ NECh5               | NDevExtCh5                | Active            | Xiaomi, De
 NECh6               | NDevExtCh6                | Active            | Xiaomi, Design for MiBand 4.
 NECh7               | NDevExtCh7                | Active            | Xiaomi, Standing Wireless Charger, 20W.
 NECh8               | NDevExtCh8                | Active            | DSTE, Designed For SONY NP-FW50 Battery.
+NECh9               | NDevExtCh9                | Active            | Baseus, PD 3.0, 120 W.
 NEBa1               | NDevExtBa1                | Active            | MiPOW, Square Mobile Battery.
 NEBa2               | NDevExtBa2                | Active            | Philips, Wireless Mobile Battery.
 NEBa3               | NDevExtBa3                | Active            | Guaishou, Multi-Cable Mobile Battery.

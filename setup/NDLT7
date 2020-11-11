@@ -1,0 +1,29 @@
+# NDLT7
+
+## Metadata
+
+K                   | V
+------------------- | -------------------
+OS                  | Gentoo
+Hardware            | Mi Laptop Pro 2019
+Architecture        | AMD64
+
+## Lvmtab
+
+VG                  | PV
+------------------- | -------------------
+`NEPd3Vg1`            | `mapper/NEPd3Pv[1-7]`
+
+## Crypttab
+
+Name                | Source
+------------------- | -------------------
+`root`              | `nvme0n1p2`
+
+## Fstab
+
+Path                                    | Source
+--------------------------------------- | -------------------
+`/`                                     | `dmcrypt:root`
+`/mnt/NEPd3_Caster/ESP`                 | `PARTUUID=b86cb27d-0d96-45c2-a5a6-b0024ef3f8b0`
+`/mnt/NEPd3_Caster/LS`                  | `NEPd3Vg1/NEPd3Lv1`
