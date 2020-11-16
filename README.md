@@ -43,6 +43,9 @@ TypeIndicator       | Description
 ------------------- | -----------
 LT                  | Laptop.
 MT                  | Mobiletop.
+PS                  | Physical Server.
+VS                  | Virtual Server.
+VM                  | Virtual Machine.
 DT                  | Donald Trump.
 NS                  | Network storage server.
 CM                  | Camera.
@@ -74,9 +77,13 @@ The nickname should be un name of un star.
 
 The nickname should be un name of un municipality.
 
+### PS
+
+The nickname should be un name of un character in WarCraft.
+
 ### Pd
 
-The nickname should be chosen among [ Saber, Archer, Rider, Lancer, Caster, Assassin, Berserker ].
+The nickname should be selected among [ Saber, Archer, Rider, Lancer, Caster, Assassin, Berserker ].
 
 ## Adoptions
 
@@ -120,6 +127,12 @@ NDMT6               | NDevMT6-Paris             | Active            | Apple, iPh
 NDMT7               | NDevMT7-Busan             | Sold              | Apple, iPad, Y2018.
 NDMT8               | NDevMT8-Wuhan             | Active            | Apple, iPad Air 4, Y2020.
 
+### PS
+
+AbbrName            | FullName                  | Status            | Description
+------------------- | ------------------------- | ----------------- | -----------
+NDPS1               | NDevPS1-Medivh            | Active            | HP, T630, Y2020.
+
 ### OS Naming
 
 Name                            | Description
@@ -129,8 +142,7 @@ NDLT7                           | Gentoo.
 NDLT7W                          | Windows 10.
 NDLT7WsA                        | WSL, AOSC OS 7 Gumblex.
 NDLT7WsU                        | WSL, Ubuntu 20.04.
-NEPd2E                          | Elementary OS.
-NEPd2U                          | Ubuntu 20.04.
+NEPd3A                          | AOSC OS 7 Gumblex.
 
 ### Virtual Machines
 
@@ -145,8 +157,6 @@ NDVM6                           | NDLT7                             | Playground
 NDVM7                           | NDLT7                             | Windows Vista.
 NDVM8                           | NDLT7                             | Void Linux.
 
-
-
 ### Miscellaneous
 
 AbbrName            | FullName                  | Status            | Description
@@ -157,7 +167,10 @@ NEKb2               | NDevExtKb2                | Active            | Dulex, Sin
 NEKb3               | NDevExtKb3                | Broken            | Apple, Magic Keyboard, Y2019.
 NEKb4               | NDevExtKb4                | Active            | Jingdong, Keychron K2, Y2020.
 NEKb5               | NDevExtKb5                | Active            | Amork, Designed for iPad, Y2020.
+NEKb6               | NDevExtKb6                | Active            | Xiaomi, Wireless Keyboard Combo Set, Y2020.
 NEMo3               | NDevExtMo3                | Active            | SteelSeries, Sensei 310, Y2018.
+NEMo4               | NDevExtMo4                | Active            | Xiaomi, Wireless Mouse, Y2020.
+NEMo5               | NDevExtMo5                | Active            | SteelSeries, Rival 310, Y2020.
 NEHp1               | NDevExtHp1                | Active            | AKG, K450, Y2014.
 NEHp2               | NDevExtHp2                | Active            | Apple, EarPods (iPhone 8), Y2018.
 NEHp3               | NDevExtHp3                | Lost              | Apple, AirPods, Y2019.
@@ -185,6 +198,8 @@ NEBa5               | NDevExtBa5                | Active            | Unknown Ma
 
 ## LAN DHCP
 
+Scope: NDRT1.
+
 Allocation Strategy:
 
 From                | To                        | Definition
@@ -194,9 +209,16 @@ From                | To                        | Definition
 
 AbbrName            | IP                 
 ------------------- | -----------------------
-NDLT6               | 192.168.1.4
-NDLT7               | 192.168.1.5
-NDMT6               | 192.168.1.11
-NDMT7               | 192.168.1.12
+NDLT6               | 192.168.1.26
+NDLT7               | 192.168.1.27
+NDMT6               | 192.168.1.56
+NDMT8               | 192.168.1.58
 
-##
+## SSH Keys
+Algorithm   | Public Key                                                            | Hostname
+----------- | --------------------------------------------------------------------- | --------
+ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIPxF1rweNbxf3Qbsv/IVwkdF5EU2WsNNvBR78P0V0+9e  | NDLT6
+ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIPoPvHErCcKsYF3BrPdfmwgRICsx2XMl1fN9I3Jg1pPA  | NDLT7
+ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAILkNnYPeS0cbErnCVV+KbYRRaQnX1BS3kH13PBL0IAuv  | NDLT7W
+ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIOQ4vSHP5RqsjNg8tImBFvIKKoSjD9ILgma6oh/Dw3PF  | NDMT7
+ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIEtVWrLCyAC897SxMCqNOvuh8sc6QiJH6sPsSMxdjXAA  | NDMT8
