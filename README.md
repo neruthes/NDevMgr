@@ -126,12 +126,13 @@ NDMT5               | NDevMT5-Athens            | Sealed            | Apple, iPh
 NDMT6               | NDevMT6-Paris             | Active            | Apple, iPhone 8.
 NDMT7               | NDevMT7-Busan             | Sold              | Apple, iPad, Y2018.
 NDMT8               | NDevMT8-Wuhan             | Active            | Apple, iPad Air 4, Y2020.
+NDMT9               | NDevMT9-Cupertino         | Active            | Xiaomi, Redmi K30 Ultra, Y2019.
 
 ### PS
 
 AbbrName            | FullName                  | Status            | Description
 ------------------- | ------------------------- | ----------------- | -----------
-NDPS1               | NDevPS1-Medivh            | Active            | HP, T630, Y2020.
+NDPS1               | NDevPS1-Medivh            | Sealed            | HP, T630, Y2020.
 
 ### OS Naming
 
@@ -204,15 +205,15 @@ Allocation Strategy:
 
 From                | To                        | Definition
 ------------------- | ------------------------- | -------------
-4                   | 39                        | My devices.
-40                  | 99                        | DHCP.
+4                   | 99                        | My devices.
+100                 | 199                       | DHCP.
 
 AbbrName            | IP                 
 ------------------- | -----------------------
-NDLT6               | 192.168.1.26
-NDLT7               | 192.168.1.27
-NDMT6               | 192.168.1.56
-NDMT8               | 192.168.1.58
+NDLT6               | 192.168.31.26
+NDLT7               | 192.168.31.27
+NDMT6               | 192.168.31.56
+NDMT8               | 192.168.31.58
 
 ## SSH Keys
 Algorithm   | Public Key                                                            | Hostname
