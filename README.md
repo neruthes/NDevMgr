@@ -212,8 +212,8 @@ AbbrName            | IP
 ------------------- | -----------------------
 NDLT6               | 192.168.31.26
 NDLT7               | 192.168.31.27
-NDMT6               | 192.168.31.56
 NDMT8               | 192.168.31.58
+NDMT9               | 192.168.31.59
 
 ## SSH Keys
 Algorithm   | Public Key                                                            | Hostname
