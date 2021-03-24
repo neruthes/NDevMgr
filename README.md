@@ -199,21 +199,20 @@ NEBa5               | NDevExtBa5                | Active            | Unknown Ma
 
 ## LAN DHCP
 
-Scope: NDRT1.
+Scope: NDRT1 in MikroTik.
 
 Allocation Strategy:
 
 From                | To                        | Definition
 ------------------- | ------------------------- | -------------
-4                   | 99                        | My devices.
-100                 | 199                       | DHCP.
+2                   | 254                       | DHCP.
 
 AbbrName            | IP                 
 ------------------- | -----------------------
-NDLT6               | 192.168.31.26
-NDLT7               | 192.168.31.27
-NDMT8               | 192.168.31.58
-NDMT9               | 192.168.31.59
+NDLT6               | 10.0.233.26
+NDLT7               | 10.0.233.27
+NDMT8               | 10.0.233.48
+NDMT9               | 10.0.233.49
 
 ## SSH Keys
 Algorithm   | Public Key                                                            | Hostname
