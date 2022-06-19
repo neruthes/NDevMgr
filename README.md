@@ -153,7 +153,7 @@ The "Name" field should be like `NDLT7W`.
 | -------- | -------- | ------ | -------------------------------------------- |
 | NDRT1    | NDevRT1  | Active | Redmi, Router AX5, Y2020.                    |
 | NDCM2    | NDevCM2  | Active | SONY, NEX-5R.                                |
-| NDGC1    | NDevGC1  | Active | Snoy, PlayStation 5 (without Optical Drive). |
+| NDGC1    | NDevGC1  | Active | Sony, PlayStation 5 (without Optical Drive). |
 
 
 ## LAN DHCP
