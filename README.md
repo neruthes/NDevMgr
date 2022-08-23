@@ -160,14 +160,8 @@ The "Name" field should be like `NDLT7W`.
 
 Scope: NDRT1 in MikroTik.
 
-Allocation Strategy:
-
-| From | To  | Definition |
-| ---- | --- | ---------- |
-| 2    | 254 | DHCP.      |
-
-| AbbrName | IP          |
-| -------- | ----------- |
+| AbbrName | IP           |
+| -------- | ------------ |
 | NDLT6    | 10.0.233.126 |
 | NDLT7    | 10.0.233.127 |
 | NDMT8    | 10.0.233.148 |
@@ -175,4 +169,4 @@ Allocation Strategy:
 
 ## SSH Keys
 
-Refer to `/ssh/ directory.
+Refer to `/ssh` directory.
