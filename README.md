@@ -168,16 +168,11 @@ Allocation Strategy:
 
 | AbbrName | IP          |
 | -------- | ----------- |
-| NDLT6    | 10.0.233.26 |
-| NDLT7    | 10.0.233.27 |
-| NDMT8    | 10.0.233.48 |
-| NDMT9    | 10.0.233.49 |
+| NDLT6    | 10.0.233.126 |
+| NDLT7    | 10.0.233.127 |
+| NDMT8    | 10.0.233.148 |
+| NDMT9    | 10.0.233.149 |
 
 ## SSH Keys
-| Algorithm   | Public Key                                                           | Hostname |
-| ----------- | -------------------------------------------------------------------- | -------- |
-| ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIPxF1rweNbxf3Qbsv/IVwkdF5EU2WsNNvBR78P0V0+9e | NDLT6    |
-| ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIPoPvHErCcKsYF3BrPdfmwgRICsx2XMl1fN9I3Jg1pPA | NDLT7    |
-| ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIPkaNESM5YMEvQRN00MHNJH/SNfcjn9KJxuV/jwUveRH | NDLT7W   |
-| ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIOQ4vSHP5RqsjNg8tImBFvIKKoSjD9ILgma6oh/Dw3PF | NDMT7    |
-| ssh-ed25519 | AAAAC3NzaC1lZDI1NTE5AAAAIEtVWrLCyAC897SxMCqNOvuh8sc6QiJH6sPsSMxdjXAA | NDMT8    |
+
+Refer to `/ssh/ directory.
