@@ -94,13 +94,13 @@ The hostname of un device should be its AbbrName.
 
 ### OpenPGP Device Public Key
 
-The "Name" field should be like `NDev-NDLT7W`.
+The "Name" field should be like `NDev-NDLT7`.
 
-The "Email" field should be `ndev.ndlt7w@neruthes.xyz`.
+The "Email" field should be `ndev.ndlt7@neruthes.xyz`.
 
 ### NTGE Device Public Key
 
-The "Name" field should be like `NDLT7W`.
+The "Name" field should be like `NDLT7`.
 
 ## Device List
 
@@ -140,6 +140,7 @@ The "Name" field should be like `NDLT7W`.
 | Name     | Description                   |
 | -------- | ----------------------------- |
 | NDLT6    | Mac OS X 10.13.6 High Sierra. |
+| NDLTG    | Gentoo.                       |
 | NDLT7    | Gentoo.                       |
 | NDLT7W   | Windows 10.                   |
 | NDLT7WsA | WSL, AOSC OS 7 Gumblex.       |
